@@ -16,7 +16,7 @@
 pip install -r requirements.txt
 ```
 
-2A. **Run the code**
+2. **Run the code**
 
 ```bash
 bash run_[method]_[dataset].sh
@@ -24,13 +24,6 @@ bash run_[method]_[dataset].sh
 where method = (fixmatch, freematch) and dataset = (cifar10, cifar100, svhn). For example, you can run
 ```bash
 bash run_fixmatch_cifar10.sh
-```
-
-2B. **Use the script generator**
-
-You can use the notebook `script_generator.ipynb` to generate a shell script `run.sh` and run with
-```bash
-bash run.sh
 ```
 
 ## Compute Resources
