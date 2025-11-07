@@ -1,6 +1,0 @@
-config/classic_cv/fixmatch/fixmatch_cifar100_2500_0.yaml, fixmatch-ours_cifar100_0_schedule-2, 0, 25000, True, True, True, True, False, schedule-2, 500, False, False, eval, 3000, 3000
-config/classic_cv/fixmatch/fixmatch_cifar100_2500_0.yaml, fixmatch-ours_cifar100_1_schedule-2, 1, 25000, True, True, True, True, False, schedule-2, 500, False, False, eval, 3000, 3000
-config/classic_cv/fixmatch/fixmatch_cifar100_2500_0.yaml, fixmatch-ours_cifar100_2_schedule-2, 2, 25000, True, True, True, True, False, schedule-2, 500, False, False, eval, 3000, 3000
-config/classic_cv/freematch/freematch_cifar100_2500_0.yaml, freematch-ours_cifar100_0_schedule-2, 0, 25000, True, True, True, True, False, schedule-2, 500, False, False, eval, 3000, 3000
-config/classic_cv/freematch/freematch_cifar100_2500_0.yaml, freematch-ours_cifar100_1_schedule-2, 1, 25000, True, True, True, True, False, schedule-2, 500, False, False, eval, 3000, 3000
-config/classic_cv/freematch/freematch_cifar100_2500_0.yaml, freematch-ours_cifar100_2_schedule-2, 2, 25000, True, True, True, True, False, schedule-2, 500, False, False, eval, 3000, 3000
