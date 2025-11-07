@@ -47,11 +47,11 @@ Our experiments utilized the following GPUs:
 If you find this work useful, please consider citing our paper:
 ```bibtex
 @inproceedings{
-vishwakarma2024pablo,
-  title={Pab{LO}: Improving Semi-Supervised Learning with Pseudolabeling Optimization},
-  author={Harit Vishwakarma and Yi Chen and Satya Sai Srinath Namburi GNVV and Sui Jiet Tay and Ramya Korlakai Vinayak and Frederic Sala},
-  booktitle={NeurIPS 2024 Workshop: Self-Supervised Learning - Theory and Practice},
-  year={2024},
-  url={https://openreview.net/forum?id=v6sg2IfGyB}
+vishwakarma2025rethinking,
+title={Rethinking Confidence Scores and Thresholds in Pseudolabeling-based {SSL}},
+author={Harit Vishwakarma and Yi Chen and Satya Sai Srinath Namburi GNVV and Sui Jiet Tay and Ramya Korlakai Vinayak and Frederic Sala},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=w4c5bLkhsz}
 }
 ```
